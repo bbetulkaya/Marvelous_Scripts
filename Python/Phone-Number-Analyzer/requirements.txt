@@ -1,0 +1,2 @@
+phonenumbers==8.12.12
+tabulate==0.8.7
